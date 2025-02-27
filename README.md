@@ -1,11 +1,16 @@
+<div align="right">
+
+![Profile Views](https://komarev.com/ghpvc/?username=MeowXiaoXiang&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
+</div>
+
+
 <div align="center">
 
 <img src="custom-style.svg" style="width: 100%;" alt="Click to see the source">
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/MeowXiaoXiang?style=social">&nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=MeowXiaoXiang">
-</p>
+![](https://img.shields.io/github/followers/MeowXiaoXiang?style=for-the-badge&logo=github)
+![](https://img.shields.io/github/stars/MeowXiaoXiang?style=for-the-badge&logo=github)
 
 ## Languages and Tools
 
