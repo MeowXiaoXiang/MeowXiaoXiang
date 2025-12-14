@@ -4,32 +4,33 @@
 
 </div>
 
-
 <div align="center">
 
 <img src="custom-style.svg" style="width: 100%;" alt="Click to see the source">
 
-![](https://img.shields.io/github/followers/MeowXiaoXiang?style=for-the-badge&logo=github)
-![](https://img.shields.io/github/stars/MeowXiaoXiang?style=for-the-badge&logo=github)
+## Languages
 
-## Languages and Tools
+![Python](https://img.shields.io/badge/Python-20445F?style=for-the-badge&logo=python&logoColor=FFDA62)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-3AAE7C?style=for-the-badge&logo=vue.js&logoColor=1F3D2B)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+## Tools & Engineering
+
+![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=F2C94C)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 </br>
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Stats & Top Langs
 
-<img src="https://github-readme-stats.vercel.app/api?username=MeowXiaoXiang&show_icons=true&theme=dark" height="180em" alt="MeowXiaoXiang's GitHub Stats"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowXiaoXiang&layout=compact&theme=dark" height="180em" alt="Most Used Languages"/>
+## Top Langs
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowXiaoXiang&layout=compact&theme=dark" height="180em" alt="Most Used Languages"/>
 
 ## Wakatime Stats
 [![MeowXiaoXiang's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XiaoXiangMeow&custom_title=Wakatime&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
