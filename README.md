@@ -25,7 +25,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-## Top Langs
+## Top Repo Langs
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowXiaoXiang&layout=compact&theme=dark" height="180em" alt="Most Used Languages"/>
 
@@ -33,4 +33,5 @@
 [![MeowXiaoXiang's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XiaoXiangMeow&custom_title=Wakatime&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 
