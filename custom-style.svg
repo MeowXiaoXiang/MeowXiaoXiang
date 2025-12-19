@@ -221,10 +221,10 @@
                     </h1>
                     <section class='items'>
                         <ul>
-                            <li>A Python Enthusiast Developer</li>
+                            <li>Python-focused Software Developer</li>
                         </ul>
                         <ul>
-                            <li>Enhancing <a href="#">Games with Code</a></li>
+                            <li><a href="#">Games and the code around them</a></li>
                         </ul>
                     </section>
                 </div>
@@ -233,3 +233,4 @@
     </foreignObject>
 
 </svg>
+
