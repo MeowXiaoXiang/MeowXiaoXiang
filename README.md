@@ -1,12 +1,10 @@
 <div align="right">
-
-![Profile Views](https://profile-metrics.meowxiaoxiang.workers.dev/views.svg)
-
+  <img src="https://profile-metrics.meowxiaoxiang.workers.dev/views.svg" width="250" />
 </div>
 
 <div align="center">
 
-<img src="custom-style.svg" style="width: 100%;" alt="Click to see the source">
+<img src="custom-style.svg" alt="Click to see the source">
 
 ## Tools & Engineering
 
@@ -36,6 +34,7 @@
 [![MeowXiaoXiang's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XiaoXiangMeow&custom_title=Wakatime&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 
 
 
