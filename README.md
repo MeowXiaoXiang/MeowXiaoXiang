@@ -1,6 +1,6 @@
 <div align="right">
 
-![Profile Views](https://komarev.com/ghpvc/?username=MeowXiaoXiang&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![Profile Views](https://profile-metrics.meowxiaoxiang.workers.dev/views.svg)
 
 </div>
 
@@ -36,6 +36,7 @@
 [![MeowXiaoXiang's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XiaoXiangMeow&custom_title=Wakatime&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 
 
 
