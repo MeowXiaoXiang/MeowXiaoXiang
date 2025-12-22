@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="custom-style.svg" alt="Click to see the source">
+<img src="custom-style.svg" width="80%" />
 
 ## Tools & Engineering
 
