@@ -25,19 +25,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+<br/>
 
-## Top Repo Langs
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeowXiaoXiang&layout=compact&theme=dark" height="180em" alt="Most Used Languages"/>
-
-## Wakatime Stats
-[![MeowXiaoXiang's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XiaoXiangMeow&custom_title=Wakatime&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Metrics Section: Side-by-Side Layout -->
+<p>
+  <img src="https://profile-metrics.meowxiaoxiang.workers.dev/repo-langs.svg" alt="Top Repo Languages" width="48%" />
+  <img src="https://profile-metrics.meowxiaoxiang.workers.dev/wakatime.svg" alt="WakaTime Stats" width="48%" />
+</p>
 
 </div>
-
-
-
-
-
-
-
